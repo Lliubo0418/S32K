@@ -1,6 +1,6 @@
 # S32K
 网关
-s32k144_Demo_Base_2CAN_cJSON:通过cJSON文件实现指定通道的转发\n
-s32k144_Demo_Base_CAN8_CANFD64：组包，由8帧can报文组成1帧CANFD报文转发\n
-s32k144_Demo_CANFD64_8CAN：拆包，将1帧CANFD报文拆分为8帧CAN报文转发\n
-s32k144_Demo_CANFD64_over8：截取CANFD报文数据段的前8位组成CAN报文转发\n
+s32k144_Demo_Base_2CAN_cJSON:通过cJSON文件实现指定通道的转发  
+s32k144_Demo_Base_CAN8_CANFD64：组包，由8帧can报文组成1帧CANFD报文转发  
+s32k144_Demo_CANFD64_8CAN：拆包，将1帧CANFD报文拆分为8帧CAN报文转发  
+s32k144_Demo_CANFD64_over8：截取CANFD报文数据段的前8位组成CAN报文转发  
